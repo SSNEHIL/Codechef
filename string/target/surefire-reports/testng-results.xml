@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="58" started-at="2020-02-26T17:30:05Z" finished-at="2020-02-26T17:30:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="58" started-at="2020-02-26T17:30:05Z" finished-at="2020-02-26T17:30:05Z">
+      <class name="stringlength.Democode">
+        <test-method status="PASS" signature="aact()[pri:-1, instance:stringlength.Democode@23223dd8]" name="aact" duration-ms="12" started-at="2020-02-26T23:00:05Z" finished-at="2020-02-26T23:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aact -->
+        <test-method status="PASS" signature="act()[pri:0, instance:stringlength.Democode@23223dd8]" name="act" duration-ms="1" started-at="2020-02-26T23:00:05Z" finished-at="2020-02-26T23:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- act -->
+        <test-method status="PASS" signature="base()[pri:0, instance:stringlength.Democode@23223dd8]" name="base" duration-ms="2" started-at="2020-02-26T23:00:05Z" finished-at="2020-02-26T23:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- base -->
+        <test-method status="PASS" signature="sdtfg()[pri:0, instance:stringlength.Democode@23223dd8]" name="sdtfg" duration-ms="0" started-at="2020-02-26T23:00:05Z" finished-at="2020-02-26T23:00:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sdtfg -->
+      </class> <!-- stringlength.Democode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
